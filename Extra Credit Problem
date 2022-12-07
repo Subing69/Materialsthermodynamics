@@ -1,0 +1,9 @@
+# Melting and boiling points at 1 atm
+
+T_melt_0 = 1358*u.K
+T_boil_0 = 2830*u.K
+P_0  = 1*u.atm
+
+Melting point  = (1358 kelvin, 1 standard_atmosphere)
+Boiling point  = (2830 kelvin, 1 standard_atmosphere)
+     
